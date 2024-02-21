@@ -2,7 +2,7 @@
   Portfolio Website<br/>
   <a href="https://vikas-chaurasiya.netlify.app" target="_blank">vikas-chaurasiya.netlify.app</a>
 </h2>
-
+<img alt="Demo" src="https://res.cloudinary.com/ddbg5nuaw/image/upload/v1708502742/websitedesktopui.png" width="1000" height="700" />
 
 
 ## Built With
@@ -67,4 +67,14 @@ Let's connect! Feel free to reach out to me:
 Did you know? I love exploring new tech gadgets and experimenting with coding projects in my free time!
 
 Thank you for visiting my portfolio. I look forward to connecting with you!
+
+
+
+  
+  
+
+
+
+
+
 

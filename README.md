@@ -7,7 +7,7 @@
 
 ## Built With
 
-My personal portfolio <a href="https://vikas-ch.netlify.app" target="_blank">vikas-chaurasiya.netlify.app</a> <br/>
+My personal portfolio <a href="https://vikas-chaurasiya.netlify.app" target="_blank">vikas-chaurasiya.netlify.app</a> <br/>
 
 This project built using these technologies:
 - React.js

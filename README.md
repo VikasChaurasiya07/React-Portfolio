@@ -2,7 +2,7 @@
   Portfolio Website<br/>
   <a href="https://vikas-chaurasiya.netlify.app" target="_blank">vikas-chaurasiya.netlify.app</a>
 </h2>
-<img alt="Demo" src="https://res.cloudinary.com/ddbg5nuaw/image/upload/v1708502742/websitedesktopui.png" width="1000" height="700" />
+<img alt="Demo" src="https://res.cloudinary.com/ddbg5nuaw/image/upload/v1708718791/webui.png" width="1000" height="700" />
 
 
 ## Built With

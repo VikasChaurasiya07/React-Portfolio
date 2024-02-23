@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website<br/>
-  <a href="https://vikas-chaurasiya.netlify.app" target="_blank">vikas-chaurasiya.netlify.app</a>
+  <a href="https://vikaschaurasiya.pages.dev" target="_blank">vikaschaurasiya.pages.dev</a>
 </h2>
 <img alt="Demo" src="https://res.cloudinary.com/ddbg5nuaw/image/upload/v1708718791/webui.png" width="1000" height="700" />
 

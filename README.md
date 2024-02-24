@@ -46,7 +46,7 @@ Here are a few projects I've worked on:
 
 3. **[Library Management System](#)** - Developed a Java application for efficient library management. This includes features for book check-in, check-out, inventory management, and user authentication. [Link to Repository Adding Soon](#)
 
-4. **[Inventory Management System](#)** - Designed a C++ application for local businesses to manage inventory, sales, and stock levels. [Link to Repository](#)
+4. **[Inventory Management System](#)** - Designed a C++ application for local businesses to manage inventory, sales, and stock levels. [Link to Repository Adding Soon](#)
 
 Feel free to explore these projects in detail on my [GitHub profile](#) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VikasChaurasiya07)
 
